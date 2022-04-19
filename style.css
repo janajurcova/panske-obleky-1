@@ -53,3 +53,30 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+button {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}
+
+button.bila {
+  background-color: white;
+}
+
+button.cervena {
+  background-color: red;
+}
+
+button.cerna {
+  background-color: black;
+}
+
+button.modra {
+  background-color: cadetblue;
+}
+
+button.objednat {
+  border-radius: 20px;
+  width: auto;
+}
